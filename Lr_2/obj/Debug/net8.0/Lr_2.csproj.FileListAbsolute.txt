@@ -1,0 +1,14 @@
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\bin\Debug\net8.0\Lr_2.exe
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\bin\Debug\net8.0\Lr_2.deps.json
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\bin\Debug\net8.0\Lr_2.runtimeconfig.json
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\bin\Debug\net8.0\Lr_2.dll
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\bin\Debug\net8.0\Lr_2.pdb
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.AssemblyInfoInputs.cache
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.AssemblyInfo.cs
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.csproj.CoreCompileInputs.cache
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.dll
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\refint\Lr_2.dll
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.pdb
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\Lr_2.genruntimeconfig.cache
+C:\Users\Katia\Desktop\Emp\Lr_2\Lr_2\obj\Debug\net8.0\ref\Lr_2.dll
